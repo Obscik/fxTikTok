@@ -1,0 +1,3 @@
+name = "tiktok"
+main = "src/index.ts"
+node_compat = true
